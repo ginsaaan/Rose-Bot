@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Jay shree ram {}, My name is {}! I [Bebop](tg://user?id={}) This is cool group bot to look at.
+Jay shree ram {}, My name is {}! I [dude](tg://user?id={}) This is cool group bot to look at.
 Add me to your group to access 
 And Press /help to know available commands.
 https://te.legra.ph/file/c5b012cc52f56fde5f481.jpg
