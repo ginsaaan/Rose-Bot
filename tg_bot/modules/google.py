@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 import urllib
 from FallenRobot import telethn as tbot
 import glob
@@ -9,11 +8,9 @@ import aiohttp
 import urllib.request
 from urllib.parse import urlencode
 import requests
-from bs4 import BeautifulSoup
 from PIL import Image
 from search_engine_parser import GoogleSearch
 
-import bs4
 import html2text
 from bing_image_downloader import downloader
 from telethon import *
